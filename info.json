@@ -1,0 +1,11 @@
+{
+  "name": "aimod",
+  "version": "0.0.1",
+  "title": "AI Mod",
+  "author": "Millo",
+  "description": "",
+  "factorio_version": "1.1.74",
+  "dependencies": [
+    "base >= 1.1"
+  ]
+}
